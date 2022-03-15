@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi ٩( 'ω' )و!
+
+[![求知若饥，虚心若愚。](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!--
 **majinnn/majinnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
